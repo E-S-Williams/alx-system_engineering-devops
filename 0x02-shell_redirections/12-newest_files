@@ -1,0 +1,3 @@
+#!/bin/bash
+tail -t1 | head -n 10
+#
